@@ -1,0 +1,11 @@
+1 Small Fries
+		Price: 2$
+5 Medium Fries
+		Price: 17$
+10 Large Fries
+		Price: 45$
+_______________________________
+Your Total is: 		 64$
+
+Your server today is: JASPER
+Thank you for choosing Pepi's Pizza!

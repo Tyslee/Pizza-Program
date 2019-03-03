@@ -1,0 +1,27 @@
+SAMPLE RUN 2
+asks for username and password; inputted '1' as Username and '1' as Password.
+	#Taken to logIn class
+	#1 is in the list of employee accounts
+	#1 is the associated password to the username: 123
+
+asks for username and password; inputted '2' as Username and '2' as Password.
+	#Taken to logIn class
+	#2 is in the list of employee accounts
+	#2 is the associated password to the username: 123
+
+asks for username and password; inputted '3' as Username and '3' as Password.
+	#Taken to logIn class
+	#3 is in the list of employee accounts
+	#3 is the associated password to the username: 123
+
+asks for username and password; inputted '4' as Username and '4' as Password.
+	#Taken to logIn class
+	#4 is in the list of employee accounts
+	#4 is the associated password to the username: 123
+
+asks for username and password; inputted '4' as Username and '4' as Password.
+	#Taken to logIn class
+	#5 is in the list of employee accounts
+	#5 is the associated password to the username: 123
+
+forcefully exitted

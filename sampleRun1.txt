@@ -1,0 +1,49 @@
+SAMPLE RUN 1
+asks for username and password; inputed '123' as Username and '123' as Password.
+	#Taken to logIn class
+	#123 is in the list of employee accounts
+	#123 is the associated password to the username: 123
+
+succesfully logged in as 'JASPER'
+
+inputted '1' to ORDER
+	#Order of the day (ctr) increased to 1
+	#Created a textfile of the name receipt1
+
+inputted '1' to order one pizza
+	#Taken to the order function in the Pizza file
+
+inputted 'small' to get a small pizza
+	#check if in size list
+	#adds 5 to the pizzaTotal
+
+inputted 'ham' then 'bacon' then 'chicken' then 'DONE'
+	#check if in toppings list
+	#adds 1 to the pizzaTotal
+	#receipt1 was editted to include the order
+	#taken back to main code, returning the total of pizza(s) ordered
+
+inputted 'yes' for choice of drinks
+	#checks if 'yes' is an acceptable answer
+	#Taken to the ask method in the drinks class in the drinksAndFries file
+
+inputted '1' for number of small drinks
+
+inputted '0' for number of medium drinks
+
+inputted '0' for number of large drinks
+	#taken back to main code, returning True
+
+	#taken back to the drinks class but in the total method
+	#receipt1 was editted to include the drinks order
+	#taken back to main code returning the total of the drinks ordered
+
+inputted 'no' for choice of fries
+	#checks if 'no' is an acceptable answer
+	#taken to the ask method in the fries class in the drinksAndFries file
+	#ask method was inherited from drinks
+	#taken back to main code, returning False
+
+	#taken back to the drinks class but in the total method
+	#receipt1 was editted to include the drinks order
+	#taken back to main code returning the total of the drinks ordered

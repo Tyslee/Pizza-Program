@@ -1,0 +1,9 @@
+Pizza 1: small pizza with: ham, bacon, chicken (3 toppings)
+		Price: 6$
+1 Small Drink(s)
+		Price: 1$
+_______________________________
+Your Total is: 		 7$
+
+Your server today is: JASPER
+Thank you for choosing Pepi's Pizza!
